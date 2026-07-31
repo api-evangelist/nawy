@@ -1,0 +1,14 @@
+{
+  "repo": "nawy",
+  "feeds": [
+    {
+      "source": "https://www.nawy.com/",
+      "feed_url": "https://www.nawy.com/blog/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-07-25T15:00:33Z"
+}
